@@ -50,43 +50,43 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage.AdvancedDocClean">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Lib">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Ocr">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.Ocr.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.Ocr.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Pdf">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.Pdf.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfDoc.Bridge">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfReader">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.PdfReader.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.PdfReader.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.WebControls">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.dotImage.WebControls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.WebControls.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.PdfDoc">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.1\bin\4.5.2\x86\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
